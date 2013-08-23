@@ -29,7 +29,7 @@ if(strcmp($_SERVER['HTTP_ORIGIN'], $sourcedomain) == 0) {
 		}
 	}
 } else {
-	echo '<p>Who goes there?<p>'; 
+	echo '<p>Expecting '.$sourcedomain.'. Who goes there?<p>'; 
 }
 
 ?>
