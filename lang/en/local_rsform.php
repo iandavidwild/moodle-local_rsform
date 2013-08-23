@@ -29,4 +29,6 @@ $string['pluginname'] = 'RSForm! Integration';
 $string['settingsheaderdb']          = 'General Settings';
 
 // Settings
+$string['settingshelp']				 = 'These settings are used to control how the Jooma! RSForm Pro forms pass data to Moodle.';
+
 $string['sourcedomain']              = 'Source domain';
